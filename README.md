@@ -25,3 +25,10 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+# What I've learnt
+
+>![xylophone](https://user-images.githubusercontent.com/25587137/125976182-2114933a-ccaa-42e6-9d20-fdf9cf30466e.png)
+
+- Also how to convert an older Flutter (<= 1.12) project into a Flutter 2 project
+
